@@ -24,7 +24,7 @@
 		</div>
 	</div>
 	<div class="col-xs-12">
-		<a class="btn btn-xs btn-success" href=" {{ route('posts.index') }} ">Back</a>
-		<button type="submit" class="btn btn-xs btn-success" name="button" >Submit</button>
+		<a style="margin-right: 967px"class="btn btn-xs btn-dark" href=" {{ route('posts.index') }} ">Back</a>
+		<button type="submit" class="btn btn-xs btn-dark" name="button" >Submit</button>
 	</div>	
 </div>

@@ -4,7 +4,9 @@
 	<div class="row">
 		<div class="col-lg-12">
 			<div class="pull-left">
-				<h3>Tambah Data Musik</h3>
+				<h3 align="center">Tambah Data Musik</h3>
+				<br>
+				<br>
 			</div>
 		</div>
 	</div>

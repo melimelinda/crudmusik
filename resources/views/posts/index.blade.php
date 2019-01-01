@@ -4,13 +4,15 @@
 	<div class="row">
 		<div class="col-lg-12">
 			<br>
-			<h3>Data Musik</h3>
+			<h3 align="center">Data Musik</h3>
+			<br>
+			<br>
 		</div>
 	</div>
 		<div class="row">
 			<div class="col-sm-12">
 				<div class="pull-right">
-					<a style="margin-left: 967px" class="btn btn-xs btn-success" href="{{ route('posts.create') }} " align="right">Tambah Data</a>
+					<a style="margin-right: 967px" class="btn btn-xs btn-dark" href="{{ route('posts.create') }} " align="right">Tambah Data</a>
 				</div>
 				<br>
 			</div>
@@ -23,7 +25,7 @@
 @endif
 
 <table class="table table-bordered">
-	<tr>
+	<tr style="background-color: grey">
 		<th>No.</th>
 		<th>Penyanyi</th>
 		<th>Judul</th>
